@@ -1,5 +1,9 @@
 # Existential N3: From N3 to Existential Rules
 
+## Here I fixed the Typo
+
+yes, great!
+
 ## Scripts
 This repository accompanies our submission at RuleML+RR 2022. It includes
 + the script facilitating our main contribution: the translation function from N3 rules to existential rules `n32rl.py`
